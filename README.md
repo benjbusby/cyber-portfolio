@@ -1,4 +1,4 @@
-# Benjamin Busby – Cybersecurity Portfolio
+# Benjamin J. Busby – Cybersecurity Portfolio
 
 BSc (Hons) Cybersecurity (Open University, starting April 2026)
 
