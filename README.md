@@ -23,4 +23,4 @@ This repository documents my practical learning in cybersecurity, including CTF 
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/benjbusby](https://www.linkedin.com/in/benjbusby)
-- Email: ben.busby@outlook.com
+- Email: benjbusby@outlook.com
